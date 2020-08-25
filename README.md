@@ -1,2 +1,2 @@
-A basic React Youtube app built for Modern React w/ Redux course.
+A React-based Youtube app built
 
